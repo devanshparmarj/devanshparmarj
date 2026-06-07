@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# Hi, I'm Devansh Parmar 👋
+## Hi there I'm Devansh Parmar 👋
 
 Computer Science Student | Python Developer | Machine Learning Enthusiast
 
@@ -36,6 +34,7 @@ Security-focused ML project for intrusion detection.
 ## 📫 Connect With Me
 - LinkedIn:https://www.linkedin.com/in/devansh-parmar1/
 - Email: devanshparmar.j@gmail.com
-**devanshparmarj/devanshparmarj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
+-->👋
+
+
